@@ -1,0 +1,8 @@
+{
+  "AdType": "facebook",
+ "Banner": "TEST_AD_TYPE#IMG_16_9_APP_INSTALL",
+ "Interstitial": "TEST_AD_TYPE#VID_HD_9_16_39S_APP_INSTALL",
+  "NativeBanner": "TEST_AD_TYPE#VID_HD_9_16_39S_APP_INSTALL",
+  "Rewarded": "TEST_AD_TYPE#VID_HD_9_16_39S_APP_INSTALL",
+  "count": "4"  
+}
